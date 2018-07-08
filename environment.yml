@@ -7,3 +7,8 @@ dependencies:
   - pcl
   - python-pcl
   - nb_conda
+  - keras
+  - tensorflow
+  - pillow
+  - glob2
+  - progressbar2
